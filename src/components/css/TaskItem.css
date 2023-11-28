@@ -1,0 +1,15 @@
+.task-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50vh;
+    padding: 8px;
+    border: 1px solid #646cff;
+    border-radius: 4px;
+    margin-bottom: 8px;
+
+  }
+  
+  .task-item button {
+    margin-left: auto;
+  }
